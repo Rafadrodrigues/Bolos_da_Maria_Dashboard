@@ -1,4 +1,4 @@
-<h1 align="center">Projeto - Análise de Venda de bolos de Maria.</h1>
+<h1 align="center">Projeto - Análise de Venda de bolos da Maria.</h1>
 
 <div align="center">
 <img src="https://github.com/Rafadrodrigues/Bolos_da_Maria_Dashboard/assets/104935995/bccebbd6-7214-461b-b891-b2c799f7366c"/ width="600px">

@@ -13,6 +13,18 @@ análise das vendas.
 Por meio de uma base de dados, realizar uma análise das vendas e construir um relátório simples e objetivo tornando mais fácil a compreensão das vendas.
 
 -------
+ ### 👀 Observações realizadas 👀
+
+Realizar análises é fundamental para compreender a dinâmica do surto, identificar padrões e nos aproximamos de possível solução. 
+
+ * O mês de junho aprensentou a menor receita, com um desempenho muito abaixo dos demais meses, a receita deste mês foi de R$517,71.
+ * Os estados da região sudeste são os que mais realizam pedidos.
+ * O bolo de pote e o bolo caseiro, são os preferidos dos consumidores.
+
+Dentre essas observações, foram realizadas mais análises presentes no Dashboard. 
+
+-------
+
 ### 🔗 Link 🔗
 
 Para visualizar o projeto e interagir com ele de diferentes formas basta acessar o link abaixo:

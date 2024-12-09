@@ -1,41 +1,31 @@
-<h1 align="center">Projeto - Análise de Venda de bolos da Maria.</h1>
+# Dashboard bolos da Maria
 
 <div align="center">
 <img src="https://github.com/Rafadrodrigues/Bolos_da_Maria_Dashboard/assets/104935995/bccebbd6-7214-461b-b891-b2c799f7366c"/ width="600px">
 </div>
+Este projeto foi desenvolvido para realizar uma análise detalhada das vendas de bolos da Maria. Ele utiliza uma base de dados de vendas e fornece insights relevantes para identificar tendências, padrões de consumo e compreender melhor o desempenho dos produtos em diferentes períodos. O objetivo é criar um relatório simples e objetivo, facilitando a compreensão dos dados.
 
-Projeto desenvolvido durante a minha participação em um curso de Power Bi. Através dele apromimorar meus conhecimentos com a ferramenta. Consisti em realizar uma 
-análise das vendas. 
+# Objetivo
 
--------
-### 🎯 Objetivo 🎯
+A análise foi conduzida com base em dados reais de vendas. As principais metas incluem:
 
-Por meio de uma base de dados, realizar uma análise das vendas e construir um relátório simples e objetivo tornando mais fácil a compreensão das vendas.
+1. Identificar os produtos mais vendidos.
+2. Compreender o desempenho mensal de vendas.
+3. Analisar o impacto das regiões na receita.
+4. Criar visualizações claras e acessíveis para facilitar a interpretação dos dados.
 
--------
- ### 👀 Observações realizadas 👀
+# Resultados Observados
 
-Realizar análises é fundamental para compreender a dinâmica do surto, identificar padrões e nos aproximamos de possível solução. 
+Durante a análise, foram identificados os seguintes pontos principais:
 
- * O mês de junho aprensentou a menor receita, com um desempenho muito abaixo dos demais meses, a receita deste mês foi de R$517,71.
- * Os estados da região sudeste são os que mais realizam pedidos.
- * O bolo de pote e o bolo caseiro, são os preferidos dos consumidores.
+- **Junho apresentou a menor receita**: O mês registrou um desempenho significativamente abaixo dos demais, com receita de R$ 517,71.
+- **A região Sudeste lidera as vendas**: A maioria dos pedidos é realizada por estados dessa região.
+- **Produtos mais populares**: O **bolo de pote** e o **bolo caseiro** são os preferidos pelos consumidores.
 
-Dentre essas observações, foram realizadas mais análises presentes no Dashboard. 
+Outras observações e análises detalhadas podem ser exploradas no **Dashboard**.
 
--------
-
-### 🔗 Link 🔗
-
-Para visualizar o projeto e interagir com ele de diferentes formas basta acessar o link abaixo:
+# Dasboard
+Para ter acesso ao projeto basta acessar o link abaixo:
 
 Link:<a>[Bolos da Maria](https://app.powerbi.com/view?r=eyJrIjoiZTdkMTgxM2MtNTc4ZS00Nzc3LTliOGUtN2IyYzk2M2MwNTcyIiwidCI6IjJiYTRlZTQ2LTc0MzItNGFkNS05MGY3LTRkMzJhMTMwOGIxYyJ9)</a>
 
--------
-### 🚀 Tecnologias 🚀
-
-*  Power Bi
-  
--------
-### 👨‍💻 Desenvolvedor 👨‍💻
-* <a>https://github.com/Rafadrodrigues</a>
